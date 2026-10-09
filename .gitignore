@@ -1,0 +1,20 @@
+# Processing / Java compiled
+*.class
+bin/
+
+# Temporary and backup files
+*.tmp
+*.bak
+*~
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Pre-compiled standalone application exports (handled via GitHub Releases)
+application.windows32/
+application.windows64/
+application.linux32/
+application.linux64/
+application.macosx/
